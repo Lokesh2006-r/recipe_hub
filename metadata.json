@@ -1,0 +1,6 @@
+{
+  "name": "RecipeHub",
+  "description": "Discover culinary recipes, manage personal favorites, explore categories, and build smart shopping lists with automatic ingredient scaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
